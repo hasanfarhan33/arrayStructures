@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Array Structures:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Array_Structures_jar</output-path>
+    <root id="archive" name="Array Structures.jar">
+      <element id="module-output" name="Array Structures" />
+    </root>
+  </artifact>
+</component>
